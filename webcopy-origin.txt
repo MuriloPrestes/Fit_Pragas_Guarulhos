@@ -1,0 +1,432 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800|Open+Sans:300,400,600,700
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.5.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.fitpragas.com.br/
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\index.htm
+Content Type: text/html
+
+Uri: https://www.fitpragas.com.br/assets/css/layers.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\css\layers.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/css/navigation.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\css\navigation.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/css/settings.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\css\settings.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/css/style.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/css/tooltipster.min.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\css\tooltipster.min.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/img/banner/1.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/banner/2.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\banner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/bg-cta.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\bg-cta.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/bg-empresa.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\bg-empresa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/favicon.ico
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.fitpragas.com.br/assets/img/logo-mw.png
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\logo-mw.png
+Content Type: image/png
+
+Uri: https://www.fitpragas.com.br/assets/img/logo.png
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://www.fitpragas.com.br/assets/img/logo2.png
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\logo2.png
+Content Type: image/png
+
+Uri: https://www.fitpragas.com.br/assets/img/servicos/1.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\servicos\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/servicos/2.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\servicos\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/servicos/3.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\servicos\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/servicos/4.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\servicos\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/servicos/5.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\servicos\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/servicos/6.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\servicos\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/sobre-nos.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\sobre-nos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/1.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/10.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/11.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/12.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/13.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/2.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/3.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/4.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/5.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/6.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/7.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/8.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/img/trabalhos/9.jpg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\img\trabalhos\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.fitpragas.com.br/assets/js/contact-me.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\js\contact-me.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/js/functions.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\js\functions.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/js/jquery-countTo.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\js\jquery-countTo.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/js/js-captcha.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\js\js-captcha.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/js/map.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\js\map.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/js/tooltipster.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\js\tooltipster.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/css/bundle.min.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\css\bundle.min.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/vendor/css/cubeportfolio.min.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\css\cubeportfolio.min.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/vendor/css/jquery.fancybox.min.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/vendor/css/owl.carousel.min.css
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-brands-400.eot
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-brands-400.eot?
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-brands-400.svg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-brands-400.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-brands-400.woff
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-brands-400.woff2
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-regular-400.eot
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-regular-400.eot?
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-regular-400.svg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-regular-400.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-regular-400.woff
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-regular-400.woff2
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-solid-900.eot
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-solid-900.eot?
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-solid-900.svg
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-solid-900.ttf
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-solid-900.woff
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.fitpragas.com.br/assets/vendor/fonts/fa-solid-900.woff2
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.fitpragas.com.br/assets/vendor/img/cbp-sprite.png
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\img\cbp-sprite.png
+Content Type: image/png
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/bundle.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.actions.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.carousel.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.kenburn.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.migration.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.parallax.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/extensions/revolution.extension.video.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/jquery.appear.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/jquery.cubeportfolio.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\jquery.cubeportfolio.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/jquery.fancybox.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/jquery.themepunch.revolution.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/jquery.themepunch.tools.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/owl.carousel.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/parallaxie.min.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\parallaxie.min.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/assets/vendor/js/wow.js
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\assets\vendor\js\wow.js
+Content Type: application/javascript
+
+Uri: https://www.fitpragas.com.br/index.html
+File Name: C:\Users\MURILO\Desktop\SiteFitPragas\www.fitpragas.com.br\index.html
+Content Type: text/html
+
